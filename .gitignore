@@ -1,0 +1,6 @@
+*.o
+
+*.c.orig
+*.h.orig
+
+minesweeper
